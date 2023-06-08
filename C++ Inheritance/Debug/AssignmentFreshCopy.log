@@ -1,0 +1,11 @@
+﻿  Driver.cpp
+C:\Users\Tom\Desktop\Test\New folder\AssignmentFreshCopy\AssignmentFreshCopy\Driver.cpp(92,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tom\Desktop\Test\New folder\AssignmentFreshCopy\AssignmentFreshCopy\Driver.cpp(92,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tom\Desktop\Test\New folder\AssignmentFreshCopy\AssignmentFreshCopy\Driver.cpp(107,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tom\Desktop\Test\New folder\AssignmentFreshCopy\AssignmentFreshCopy\Driver.cpp(107,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tom\Desktop\Test\New folder\AssignmentFreshCopy\AssignmentFreshCopy\Driver.cpp(211,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tom\Desktop\Test\New folder\AssignmentFreshCopy\AssignmentFreshCopy\Driver.cpp(214,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tom\Desktop\Test\New folder\AssignmentFreshCopy\AssignmentFreshCopy\Driver.cpp(215,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tom\Desktop\Test\New folder\AssignmentFreshCopy\AssignmentFreshCopy\Driver.cpp(295,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tom\Desktop\Test\New folder\AssignmentFreshCopy\AssignmentFreshCopy\Driver.cpp(295,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  AssignmentFreshCopy.vcxproj -> C:\Users\Tom\Desktop\Test\New folder\AssignmentFreshCopy\Debug\AssignmentFreshCopy.exe
